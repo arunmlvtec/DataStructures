@@ -21,7 +21,6 @@ public class Node {
 		return num;
 	}
 	public Node getLink(){
-		System.out.println("");
 		return link;
 	}
 }
