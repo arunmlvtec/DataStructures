@@ -7,7 +7,7 @@
  * 					3). getNum()
  * 					4). getLink()
  * 
- * Solved By: Arun Pokharna
+ * Created By: Arun Pokharna
  * 
  * */
 package linkedlist;
